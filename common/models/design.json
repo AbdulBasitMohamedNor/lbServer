@@ -1,0 +1,19 @@
+{
+  "name": "Design",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Designr": {
+      "type": "string",
+      "required": true,
+      "default": "E0000"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
