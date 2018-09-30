@@ -9,7 +9,7 @@
     "Nummer": {
       "type": "string",
       "required": true,
-      "default": "713.000.000"
+      "default": "713.000.333"
     },
     "Nummer2": {
       "type": "string",
